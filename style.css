@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background: linear-gradient( #4287f5 0%,#4bf542 100%);
+    background: linear-gradient( #065ce7 0%,#b6f17e 100%);
 }
 html
 {
@@ -48,7 +48,7 @@ h2{
 #about{
     padding-top:40px;
     font-size:42;
-    background:pink;
+    background:rgb(243, 168, 107);
 }
 .menu{
    list-style: none;
